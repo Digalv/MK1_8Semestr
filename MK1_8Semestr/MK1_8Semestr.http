@@ -1,0 +1,6 @@
+@MK1_8Semestr_HostAddress = http://localhost:5224
+
+GET {{MK1_8Semestr_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
