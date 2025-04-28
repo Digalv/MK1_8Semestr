@@ -4,5 +4,6 @@
     {
         public Guid Id { get; set; }
         public required String Title { get; set; }
+        public List<Produkt> Produkts { get; set; }
     }
 }
